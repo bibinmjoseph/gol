@@ -1002,16 +1002,5 @@
         </profile>
     </profiles>
 </project>
-<distributionManagement> 
-        <repository>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-            <id>gol</id>
-            <name>game-v1</name>
-            <url>http://35.166.246.19:8081/nexus/content/repositories/gol/</url>
-        </repository>
-        <snapshotRepository>
-            <id>gol</id>
-            <name>game-v1</name>
-            <url>http://35.166.246.19:8081/nexus/content/repositories/gol/</url>
-        </snapshotRepository>
-    </distributionManagement>
+
 
